@@ -1,0 +1,19 @@
+TESTE DE VALIDAÇÃO - 10 ENTREVISTADOS
+
+Use estas respostas como roteiro para testar o programa:
+
+1. Ana, 20 anos, opção 1 (EXCELENTE)
+2. Bruno, 25 anos, opção 2 (BOM)
+3. Carla, 31 anos, opção 3 (RUIM)
+4. Diego, 19 anos, opção 1 (EXCELENTE)
+5. Elisa, 28 anos, opção 2 (BOM)
+6. Felipe, 35 anos, opção 1 (EXCELENTE)
+7. Giovana, 22 anos, opção 3 (RUIM)
+8. Hugo, 40 anos, opção 2 (BOM)
+9. Isabela, 27 anos, opção 1 (EXCELENTE)
+10. João, 30 anos, opção 3 (RUIM)
+
+Resultado esperado:
+EXCELENTE = 4
+RUIM = 3
+BOM = 3
